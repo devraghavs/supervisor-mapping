@@ -1,0 +1,39 @@
+.button-wrapper {
+  display: block;
+
+  border-radius: 3px;
+
+  text-align: center;
+
+  text-decoration: none;
+
+  padding: 0.5rem;
+
+  border: 1px solid #eee;
+
+  background-color: #707070;
+
+  color: white;
+
+  cursor: pointer;
+
+  position: relative;
+
+  &:active {
+    top: 0.6px;
+
+    left: 0.6px;
+  }
+
+  &:disabled {
+    background-color: pink;
+
+    cursor: not-allowed;
+  }
+
+  @media screen and (max-width: 800px) {
+    font-size: 12px;
+
+    padding: 0.4rem;
+  }
+}

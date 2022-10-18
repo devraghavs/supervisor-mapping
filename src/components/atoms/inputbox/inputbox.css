@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300&display=swap");
+.input {
+  border-width: 0;
+  color: black;
+  border-bottom: 3px solid rgba(44, 62, 80, 0.2);
+  background-color: transparent;
+  position: relative;
+  width: 20%;
+}
+
+@media screen and (max-width: 800px) {
+  .input {
+    width: 80%;
+  }
+}
+
+.input:focus {
+  outline: 0;
+  -webkit-box-shadow: none;
+          box-shadow: none;
+  border-color: #22bbd6;
+}
+/*# sourceMappingURL=inputbox.css.map */

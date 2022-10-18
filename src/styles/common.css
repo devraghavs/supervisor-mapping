@@ -1,0 +1,22 @@
+/* @description:- Default css for the project*/
+@import url('https://fonts.googleapis.com/css2?family=Hind:wght@500&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Hind";
+    color: #5c646c;
+    box-sizing: border-box;
+}
+.btn-primary {
+    background-color: #089cfc;
+    color: white;
+    border: #089cfc;
+}
+.table-head {
+    background-color: #ff444c;
+    color: white;
+    border: #ff444c;
+}
+body .table>:not(:first-child) {
+    border-top: none;
+}

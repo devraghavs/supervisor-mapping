@@ -1,0 +1,881 @@
+{
+  "users": [
+    {
+      "supervisor": "Sailesh Raghavan",
+      "title": "Director",
+      "project": "Absco - 2022 - Online Pharmacy",
+      "industry": "Retail",
+      "seniorityLevel": 5,
+      "supervisorId": 171213,
+      "supervisee": [
+        {
+          "name": "Abhijeet Kumar",
+          "project": "2022 Q2 CEP | CF | Integration Services_ CEP PRM UC",
+          "industry": "Retail",
+          "id": 172233,
+          "seniorityLevel": 2,
+          "supervisorId": 171213
+        },
+        {
+          "name": "Adya Mishra",
+          "project": "Jenny Craig - POH",
+          "industry": "Retail",
+          "id": 172331,
+          "seniorityLevel": 1,
+          "supervisorId": 171213
+        },
+        {
+          "name": "Akash Sharma",
+          "project": "PGD Lebanon support- Starcom",
+          "industry": "Retail",
+          "id": 171012,
+          "seniorityLevel": 1,
+          "supervisorId": 171213
+        },
+        {
+          "name": "Akshay R",
+          "project": "Nissan PACE FY21 | CET XSD (Subst 229840)",
+          "industry": "Retail",
+          "id": 174455,
+          "seniorityLevel": 2,
+          "supervisorId": 171213
+        },
+        {
+          "name": "Harish R M",
+          "project": "ASDA - POH PID",
+          "industry": "Retail",
+          "id": 170011,
+          "seniorityLevel": 2,
+          "supervisorId": 171213
+        },
+        {
+          "name": "Nipun Jain",
+          "project": "EAS| IN| Groupe Portal",
+          "industry": "Retail",
+          "id": 178899,
+          "seniorityLevel": 2,
+          "supervisorId": 171213
+        },
+        {
+          "name": "Rajeev Jain",
+          "project": "TCP - FY22 H1 Digital Releases",
+          "industry": "Retail",
+          "id": 179966,
+          "seniorityLevel": 2,
+          "supervisorId": 171213
+        }
+      ]
+    },
+    {
+      "supervisor": "Shobit Sarin",
+      "title": "Manager",
+      "project": "People On Hold - Retail",
+      "industry": "Financial Services",
+      "seniorityLevel": 4,
+      "supervisorId": 179034,
+      "supervisee": [
+        {
+          "name": "Sandra Maneesh",
+          "project": "TRAINING.PS.IN.PSI.TRAINEES",
+          "industry": "Financial Services",
+          "id": 170121,
+          "seniorityLevel": 1,
+          "supervisorId": 179034
+        },
+        {
+          "name": "Varun Ravalia",
+          "project": "TRAINING.PS.IN.PSI.TRAINEES",
+          "industry": "Financial Services",
+          "id": 178912,
+          "seniorityLevel": 1,
+          "supervisorId": 179034
+        },
+        {
+          "name": "Vaishally",
+          "project": "NGL Sites Retainer",
+          "industry": "Financial Services",
+          "id": 171562,
+          "seniorityLevel": 1,
+          "supervisorId": 179034
+        },
+        {
+          "name": "Arpit Katiyar",
+          "project": "TRAINING.PS.IN.PSI.TRAINEES",
+          "industry": "Financial Services",
+          "id": 171234,
+          "seniorityLevel": 1,
+          "supervisorId": 179034
+        }
+      ]
+    },
+    {
+      "supervisor": "Sourabh Kumar",
+      "title": "Manager",
+      "project": "Unilever India PoH & Ramp Up - EU",
+      "industry": "Telecommunication, Media & Technology (TMT)",
+      "seniorityLevel": 4,
+      "supervisorId": 170123,
+      "supervisee": [
+        {
+          "name": "Archana P",
+          "project": "SNINDIA.IN.CoE-DataScience.Delivery.Leadership & Initiatives.DBT",
+          "industry": "Telecommunication, Media & Technology (TMT)",
+          "id": 174980,
+          "seniorityLevel": 2,
+          "supervisorId": 170123
+        },
+        {
+          "name": "Akarsh Srivastava",
+          "project": "SNINDIA.IN.CoE-Data.Delivery.Initiatives.DBT",
+          "industry": "Telecommunication, Media & Technology (TMT)",
+          "id": 179121,
+          "seniorityLevel": 2,
+          "supervisorId": 170123
+        },
+        {
+          "name": "Ganesh Gorde",
+          "project": "AiBA | LTS | Support Model 2022",
+          "industry": "Telecommunication, Media & Technology (TMT)",
+          "id": 176543,
+          "seniorityLevel": 3,
+          "supervisorId": 170123
+        },
+        {
+          "name": "Shikar Agarwal",
+          "project": "2022 Q2 CEP | CF | Shoppable Experiences (Online Buy It Now)_Web Infra & Tools",
+          "industry": "Telecommunication, Media & Technology (TMT)",
+          "id": 172908,
+          "seniorityLevel": 2,
+          "supervisorId": 170123
+        }
+      ]
+    },
+    {
+      "supervisor": "Swati Sehrawat",
+      "title": "Manager",
+      "project": "HQ.IND.Investment.LTC Staff India",
+      "industry": "Energy and Commodities",
+      "seniorityLevel": 3,
+      "supervisorId": 171122,
+      "supervisee": [
+        {
+          "name": "Alok Raj",
+          "project": "Goodyear POH",
+          "industry": "Energy and Commodities",
+          "id": 179045,
+          "seniorityLevel": 1,
+          "supervisorId": 171122
+        },
+        {
+          "name": "Akaash Joshi",
+          "project": "TRAINING.PS.IN.PSI.TRAINEES",
+          "industry": "Energy and Commodities",
+          "id": 178976,
+          "seniorityLevel": 1,
+          "supervisorId": 171122
+        }
+      ]
+    },
+    {
+      "supervisor": "Raja Mrinal Das",
+      "title": "Manager",
+      "project": "TRAINING.PS.IN.PSI.TRAINERS",
+      "industry": "Consumer Products",
+      "seniorityLevel": 5,
+      "supervisorId": 177788,
+      "supervisee": [
+        {
+          "name": "Damini Dutta",
+          "project": "HQ.IND.Investment.LTC Staff India",
+          "industry": "Consumer Products",
+          "id": 179081,
+          "seniorityLevel": 2,
+          "supervisorId": 177788
+        },
+        {
+          "name": "Rishika Rajan",
+          "project": "HQ.IND.Investment.LTC Staff India",
+          "industry": "Consumer Products",
+          "id": 171122,
+          "seniorityLevel": 2,
+          "supervisorId": 177788
+        },
+        {
+          "name": "Varsha Saini",
+          "project": "HQ.IND.Investment.LTC Staff India",
+          "industry": "Consumer Products",
+          "id": 178901,
+          "seniorityLevel": 2,
+          "supervisorId": 177788
+        }
+      ]
+    },
+    {
+      "supervisor": "Ankush Saini",
+      "title": "Senior Associate",
+      "project": "CX 2021 - CX Interfaces",
+      "industry": "Retail",
+      "seniorityLevel": 2,
+      "supervisorId": 170011,
+      "supervisee": [
+        {
+          "name": "Harsh Kumar",
+          "project": "Coach - People on Hold",
+          "industry": "Retail",
+          "id": 176699,
+          "seniorityLevel": 1,
+          "supervisorId": 170011
+        }
+        
+      ]
+    },
+    {
+      "supervisor": "Bhumika Sharma",
+      "title": "Director",
+      "project": "SNINDIA.IN.EnggTeam.XT&Mobile.Delivery.Initiatives.DBT",
+      "industry": "Travel & Hospitality",
+      "seniorityLevel": 4,
+      "supervisorId": 172378,
+      "supervisee": [
+        {
+          "name": "Shriya Singh",
+          "project": "SNINDIA.IN.EnggTeam.XT&Mobile.Delivery.Initiatives.DBT",
+          "industry": "Travel & Hospitality",
+          "id": 179900,
+          "seniorityLevel": 1,
+          "supervisorId": 172378
+        },
+        {
+          "name": "Ravi Shankar",
+          "project": "PVH - POH",
+          "industry": "Travel & Hospitality",
+          "id": 175544,
+          "seniorityLevel": 1,
+          "supervisorId": 172378
+        },
+        {
+          "name": "Sweta Rani",
+          "project": "SNINDIA.IN.EngineeringOffice.Delivery.Initiatives.DBT",
+          "industry": "Travel & Hospitality",
+          "id": 174090,
+          "seniorityLevel": 1,
+          "supervisorId": 172378
+        },
+        {
+          "name": "Kulkarni Baswaraj",
+          "project": "Store Picking Experience",
+          "industry": "Travel & Hospitality",
+          "id": 170892,
+          "seniorityLevel": 1,
+          "supervisorId": 172378
+        }
+      ]
+    },
+    {
+      "supervisor": "Disha Roy",
+      "title": "Director",
+      "project": "Q.IND.Investment.LTC Staff India",
+      "industry": "Health",
+      "seniorityLevel": 4,
+      "supervisorId": 171717,
+      "supervisee": [
+        {
+          "name": "Divya Goel",
+          "project": "HQ.IND.Investment.LTC Staff India",
+          "industry": "Health",
+          "id": 178099,
+          "seniorityLevel": 3,
+          "supervisorId": 171717
+        },
+        {
+          "name": "Pooja Kumari",
+          "project": "HQ.IND.Investment.LTC Staff India",
+          "industry": "Health",
+          "id": 176090,
+          "seniorityLevel": 3,
+          "supervisorId": 171717
+        },
+        {
+          "name": "Kunal Kunal",
+          "project": "HQ.IN.CAPACITY.ENRICH",
+          "industry": "Health",
+          "id": 170011,
+          "seniorityLevel": 3,
+          "supervisorId": 171717
+        }
+      ]
+    },
+    {
+      "supervisor": "Eela Sharma",
+      "title": "Senior Manager",
+      "project": "Sales Support EU.Tech & BC",
+      "industry": "Energy and Commodities",
+      "seniorityLevel": 6,
+      "supervisorId": 177777,
+      "supervisee": [
+        {
+          "name": "Kanchan Sagar",
+          "project": "SNINDIA.IN.CoE-Cloud & DevOps.Delivery.Initiatives.DBT",
+          "industry": "Energy and Commodities",
+          "id": 170011,
+          "seniorityLevel": 3,
+          "supervisorId": 177777
+        },
+        {
+          "name": "Riti Kataria",
+          "project": "SNINDIA.IN.CoE-Cloud & DevOps.Delivery.Initiatives.DBT",
+          "industry": "Energy and Commodities",
+          "id": 179988,
+          "seniorityLevel": 3,
+          "supervisorId": 177777
+        },
+        {
+          "name": "Saransh Saxena",
+          "project": "SNINDIA.IN.CoE-Cloud & DevOps.Delivery.Initiatives.DBT",
+          "industry": "Energy and Commodities",
+          "id": 175500,
+          "seniorityLevel": 3,
+          "supervisorId": 177777
+        }
+      ]
+    },
+    {
+      "supervisor": "Jyothy Lakshmy",
+      "title": "Senior Manager",
+      "project": "SNINDIA.IN.EngineeringCraft.Delivery.Leadership.DBT",
+      "industry": "Health",
+      "seniorityLevel": 5,
+      "supervisorId": 179999,
+      "supervisee": [
+        {
+          "name": "Sunita Nair",
+          "project": "SNINDIA.IN.Delivery.India Delivery.EXECADMIN",
+          "industry": "Health",
+          "id": 176025,
+          "seniorityLevel": 1,
+          "supervisorId":179999 
+        },
+        {
+          "name": "Ritika Singhal",
+          "project": "Tech X | OTA Flights_NI-0115193",
+          "industry": "Health",
+          "id": 179612,
+          "seniorityLevel": 1,
+          "supervisorId": 179999
+        },
+        {
+          "name": "Sini Abraham",
+          "project": "SNINDIA.IN.Delivery.India Delivery.EXECADMIN",
+          "industry": "Health",
+          "id": 178400,
+          "seniorityLevel": 1,
+          "supervisorId": 179999
+        }
+        
+        
+      ]
+    },
+    {
+      "supervisor": "Mohit Singhal",
+      "title": "Senior Manager",
+      "project": "CX 2021 - CX Interfaces",
+      "industry": "Financial Services",
+      "seniorityLevel": 3,
+      "supervisorId": 171100,
+      "supervisee": [
+        {
+          "name": "Abdul Halith Abdul Jabbar",
+          "project": "TCP - People on Hold",
+          "industry": "Financial Services",
+          "id": 179900,
+          "seniorityLevel": 2,
+          "supervisorId": 171100
+        },
+        {
+          "name": "Abhishek Tiwari",
+          "project": "TCP - People on Hold",
+          "industry": "Financial Services",
+          "id": 178967,
+          "seniorityLevel": 2,
+          "supervisorId": 171100
+        },
+        {
+          "name": "Debabrata Nayak",
+          "project": "TCP - FY22 H1 Digital Releases",
+          "industry": "Financial Services",
+          "id": 170551,
+          "seniorityLevel": 1,
+          "supervisorId": 171100
+        },
+        {
+          "name": "Deepak Choudhary",
+          "project": "TCP - FY22 H1 Digital Releases",
+          "industry": "Financial Services",
+          "id": 171122,
+          "seniorityLevel": 1,
+          "supervisorId": 171100
+        },
+        {
+          "name": "Dhrumil Shah",
+          "project": "TCP - People on Hold",
+          "industry": "Financial Services",
+          "id": 178822,
+          "seniorityLevel": 1,
+          "supervisorId": 171100
+        },
+        {
+          "name": "Jai Mahajan",
+          "project": "TCP - FY22 H1 Digital Releases",
+          "industry": "Financial Services",
+          "id": 173311,
+          "seniorityLevel": 2,
+          "supervisorId": 171100
+        },
+        {
+          "name": "Kaushal Panda",
+          "project": "Sunbelt - Mobile App Product Team",
+          "industry": "Financial Services",
+          "id": 179210,
+          "seniorityLevel": 2,
+          "supervisorId": 171100
+        },
+        {
+          "name": "Nisha Choudhary",
+          "project": "TCP - PJ Place Platform Optimization",
+          "industry": "Financial Services",
+          "id": 175601,
+          "seniorityLevel": 1,
+          "supervisorId": 171100
+        },
+        {
+          "name": "Vivek",
+          "project": "TCP - FY22 H1 Digital Releases",
+          "industry": "Financial Services",
+          "id": 172389,
+          "seniorityLevel": 1,
+          "supervisorId": 171100
+        }
+        
+        
+        
+       
+      ]
+    },
+    {
+      "supervisor": "Abhijit Dutta",
+      "title": "Director",
+      "project": "Infiniti Intl | FY22 Retainer International Markets",
+      "industry": "Transport and Mobility (Automotive)",
+      "seniorityLevel": 4,
+      "supervisorId": 171111,
+      "supervisee": [
+        {
+          "name": "Shameer Tarigonda",
+          "project": "DCI 22 | New DHL.com",
+          "industry": "Transport and Mobility (Automotive)",
+          "id": 176000,
+          "seniorityLevel": 2,
+          "supervisorId": 171111
+        },
+        {
+          "name": "Ambika Mullasseri",
+          "project": "Nissan FY22 | PACE OPT CE PODs Q1",
+          "industry": "Transport and Mobility (Automotive)",
+          "id": 178012,
+          "seniorityLevel": 2,
+          "supervisorId": 171111
+        },
+        {
+          "name": "Pankaj Verma",
+          "project": "Absco - 2022 - Martech PODS",
+          "industry": "Transport and Mobility (Automotive)",
+          "id": 197655,
+          "seniorityLevel": 2,
+          "supervisorId": 171111
+        },
+        {
+          "name": "Vijender Gilhotra",
+          "project": "2022 MSP - Base Services",
+          "industry": "Transport and Mobility (Automotive)",
+          "id": 171122,
+          "seniorityLevel": 2,
+          "supervisorId": 171111
+        },
+        {
+          "name": "Vikas Sharma",
+          "project": "Nissan FY22 | PACE RUN Services Q1",
+          "industry": "Transport and Mobility (Automotive)",
+          "id": 176120,
+          "seniorityLevel": 2,
+          "supervisorId": 171111
+        },
+        {
+          "name": "Suman Kumar Sahu",
+          "project": "DMP Platform Operations",
+          "industry": "Transport and Mobility (Automotive)",
+          "id": 169804,
+          "seniorityLevel": 3,
+          "supervisorId": 171111
+        },
+        {
+          "name": "Sanjeev Kalwar 2",
+          "project": "Nissan FY22 | PACE OPT CE PODs Q1",
+          "industry": "Transport and Mobility (Automotive)",
+          "id": 175099,
+          "seniorityLevel": 3,
+          "supervisorId": 171111
+        }
+      ]
+    },
+    {
+      "supervisor": "Leslie Samuel Kingsly",
+      "title": "Manager",
+      "project": "Nissan FY22 | PACE RUN Architecture Innovation and Front End Performance Q1",
+      "industry": "Consumer Products",
+      "seniorityLevel": 5,
+      "supervisorId": 177750,
+      "supervisee": [
+        {
+          "name": "Gourav Kumar",
+          "project": "Nissan FY22 | PACE RUN Architecture Innovation and Front End Performance Q1",
+          "industry": "Consumer Products",
+          "id": 171188,
+          "seniorityLevel": 2,
+          "supervisorId": 177750
+        },
+        {
+          "name": "Pooja Chavan",
+          "project": "Nissan FY22 | PACE RUN Services Q1",
+          "industry": "Consumer Products",
+          "id": 170974,
+          "seniorityLevel": 2,
+          "supervisorId": 177750
+        },
+        {
+          "name": "Saket Gupta",
+          "project": "Nissan PACE FY21 | Run Application Support (Subst 229830)",
+          "industry": "Consumer Products",
+          "id": 175088,
+          "seniorityLevel": 1,
+          "supervisorId": 177750
+        }
+      ]
+    },
+    {
+      "supervisor": "Thomas Bailey",
+      "title": "VP",
+      "project": "Mayo Clinic Patient Platform",
+      "industry": "Travel & Hospitality",
+      "seniorityLevel": 4,
+      "supervisorId": 170000,
+      "supervisee": [
+        {
+          "name": "Alison Walden",
+          "project": "Intel Retainer 2022",
+          "industry": "Travel & Hospitality",
+          "id": 179034,
+          "seniorityLevel": 3,
+          "supervisorId": 170000
+        },
+        {
+          "name": "Dennis Hall",
+          "project": "MB Vans 2022",
+          "industry": "Travel & Hospitality",
+          "id": 174499,
+          "seniorityLevel": 2,
+          "supervisorId": 170000
+        },
+        {
+          "name": "Kevin Thomas",
+          "project": "MBUSA 2022 Digital Dealer Tools",
+          "industry": "Travel & Hospitality",
+          "id": 170123,
+          "seniorityLevel": 2,
+          "supervisorId": 170000
+        },
+        {
+          "name": "Joseph Morgan",
+          "project": "Wawa DBT Front-End Team 2022",
+          "industry": "Travel & Hospitality",
+          "id": 176370,
+          "seniorityLevel": 2,
+          "supervisorId": 170000
+        }
+      ]
+    },
+    {
+      "supervisor": "Kumar Gaurav",
+      "title": "Director",
+      "project": "CX 2021 - CX Interfaces",
+      "industry": "Health",
+      "seniorityLevel": 4,
+      "supervisorId": 178844,
+      "supervisee": [
+        {
+          "name": "Karan Jain",
+          "project": "Customer Transformation Milestone 1",
+          "industry": "Health",
+          "id": 171987,
+          "seniorityLevel": 1,
+          "supervisorId": 178844
+        },
+        {
+          "name": "Ankur Kachru",
+          "project": "SST - Albert's Portfolio",
+          "industry": "Health",
+          "id": 170666,
+          "seniorityLevel": 3,
+          "supervisorId": 178844
+        },
+        {
+          "name": "Khushboo Kumari",
+          "project": "Prime Finance Web Migration",
+          "industry": "Health",
+          "id": 175798,
+          "seniorityLevel": 1,
+          "supervisorId": 178844
+        },
+        {
+          "name": "Pavan Rajput",
+          "project": "KFC UK POH PID",
+          "industry": "Health",
+          "id": 174390,
+          "seniorityLevel": 1,
+          "supervisorId": 178844
+        },
+        {
+          "name": "Mayank Singhal",
+          "project": "Monotype | App Dev Team Q2-Q4'22",
+          "industry": "Health",
+          "id": 170369,
+          "seniorityLevel": 3,
+          "supervisorId": 178844
+        },
+        {
+          "name": "Rashmi Soni",
+          "project": "Direct Express Web MVP Phase 2",
+          "industry": "Health",
+          "id": 171871,
+          "seniorityLevel": 1,
+          "supervisorId": 178844
+        },
+        {
+          "name": "Vijendra Mishra",
+          "project": "CX 2021 - Personalization",
+          "industry": "Health",
+          "id": 175498,
+          "seniorityLevel": 3,
+          "supervisorId": 178844
+        },
+        {
+          "name": "Manoj Kumar Varma",
+          "project": "MGM DMP Platform",
+          "industry": "Health",
+          "id": 174444,
+          "seniorityLevel": 1,
+          "supervisorId": 178844
+        },
+        {
+          "name": "Praveen S",
+          "project": "CX 2021 - CX Interfaces",
+          "industry": "Health",
+          "id": 173333,
+          "seniorityLevel": 1,
+          "supervisorId": 178844
+        },
+        {
+          "name": "Sandeep Garg",
+          "project": "TME Portal",
+          "industry": "Health",
+          "id": 176966,
+          "seniorityLevel": 1,
+          "supervisorId": 178844
+        }
+      ]
+    },
+    {
+      "supervisor": "Ankit Arora",
+      "title": "Manager",
+      "project": "PS-PCT-20-01 Portfolio Construction",
+      "industry": "Telecommunication, Media & Technology(TMT)",
+      "seniorityLevel": 5,
+      "supervisorId": 171166,
+      "supervisee": [
+        {
+          "name": "Ayush Kumar",
+          "project": "Retail Scrum Team 1 - FPFT",
+          "industry": "Telecommunication, Media & Technology(TMT)",
+          "id": 179085,
+          "seniorityLevel": 3,
+          "supervisorId": 171166
+        },
+        {
+          "name": "Arun Kapuganti",
+          "project": "Lloyds - RVS - Credit Suite - H1 2022",
+          "industry": "Telecommunication, Media & Technology(TMT)",
+          "id": 176124,
+          "seniorityLevel": 3,
+          "supervisorId": 171166
+        },
+        {
+          "name": "Gaurav Gulati",
+          "project": "SNINDIA.IN.Invest.India Training. PS IN EXPERIENCE TECHNOLOGY",
+          "industry": "Telecommunication, Media & Technology(TMT)",
+          "id": 173784,
+          "seniorityLevel": 1,
+          "supervisorId": 171166
+        },
+        {
+          "name": "Sibi Mathew Varghese",
+          "project": "People On Hold - GM Tech & BC",
+          "industry": "Telecommunication, Media & Technology(TMT)",
+          "id": 176627,
+          "seniorityLevel": 1,
+          "supervisorId": 171166
+        }
+        
+        
+      ]
+    },
+    {
+      "supervisor": "Neha Malhotra",
+      "title": "Manager",
+      "project": "BSCAP Regional Support Retainer for 2022",
+      "industry": "Financial Services",
+      "seniorityLevel": 4,
+      "supervisorId": 170101,
+      "supervisee": [
+        {
+          "name": "Sonal Bhargava",
+          "project": "RACV POH PID",
+          "industry": "Financial Services",
+          "id": 176908,
+          "seniorityLevel": 2,
+          "supervisorId": 170101
+        },
+        {
+          "name": "Akshay Wadekar",
+          "project": "RACV POH PID",
+          "industry": "Financial Services",
+          "id": 176543,
+          "seniorityLevel": 2,
+          "supervisorId": 170101
+        }
+      ]
+    },
+    {
+      "supervisor": "Ariti Bhowmik",
+      "title": "Senior Manager",
+      "project": "HQ.IN.CAPACITY.IND TALENT ACQUISITION",
+      "industry": "Retail",
+      "seniorityLevel": 4,
+      "supervisorId": 172908,
+      "supervisee": [
+        {
+          "name": "Rohan Mahajan",
+          "project": "HQ.IND.Hiring.Interviewer Time",
+          "industry": "Retail",
+          "id": 176015,
+          "seniorityLevel": 1,
+          "supervisorId": 172908
+        }
+      ]
+    },
+    {
+      "supervisor": "Shashi K",
+      "title": "Manager",
+      "project": "HQ.IN.CAPACITY.IND TALENT ACQUISITION",
+      "industry": "Transport and Mobility(Automotive)",
+      "seniorityLevel": 4,
+      "supervisorId": 171699,
+      "supervisee": [
+        {
+          "name": "Rashi Raj",
+          "project": "HQ.IN.CAPACITY.IND TALENT ACQUISITION",
+          "industry": "Transport and Mobility(Automotive)",
+          "id": 172398,
+          "seniorityLevel": 1,
+          "supervisorId": 171699
+        }
+        
+        
+      ]
+    },
+    {
+      "supervisor": "Vinod Kumar",
+      "title": "Senior Manager",
+      "project": "CX 2021 - DIY",
+      "industry": "Healthcare",
+      "seniorityLevel": 5,
+      "supervisorId": 178690,
+      "supervisee": [
+        {
+          "name": "Hitesh Parashar",
+          "project": "CX 2021 - CX Interfaces",
+          "industry": "Healthcare",
+          "id": 176633,
+          "seniorityLevel": 1,
+          "supervisorId": 178690
+        },
+        {
+          "name": "Aditya Suman",
+          "project": "A4E Coaching Platform Build",
+          "industry": "Healthcare",
+          "id": 179113,
+          "seniorityLevel": 1,
+          "supervisorId": 178690
+        },
+        {
+          "name": "Gaurav Tiwari",
+          "project": "A4E Coaching Platform Build",
+          "industry": "Healthcare",
+          "id": 176255,
+          "seniorityLevel": 1,
+          "supervisorId": 178690
+        },
+        {
+          "name": "Lokesh Yadav",
+          "project": "2022 Q2 CEP | CF | Open Stack Services_ Web Infra & Tools",
+          "industry": "Healthcare",
+          "id": 170543,
+          "seniorityLevel": 2,
+          "supervisorId": 178690
+        },
+        {
+          "name": "Kailash Chandra",
+          "project": "Coach - People on Hold",
+          "industry": "Healthcare",
+          "id": 178450,
+          "seniorityLevel": 2,
+          "supervisorId": 178690
+        }
+      ]
+    },
+    {
+      "supervisor": "Praveen Thirupathi",
+      "title": "Manager",
+      "project": "TMO - 2022 Coverage Map",
+      "industry": "Energy & Commodities",
+      "seniorityLevel": 4,
+      "supervisorId": 176666,
+      "supervisee": [
+        {
+          "name": "Gunjan Shahi",
+          "project": "TMO - 2022 Coverage Map",
+          "industry": "Energy & Commodities",
+          "id": 179876,
+          "seniorityLevel": 1,
+          "supervisorId": 176666
+        },
+        {
+          "name": "Dilbagh Panesar",
+          "project": "Entegris Digital Retainer 2021-2023",
+          "industry": "Energy & Commodities",
+          "id": 173089,
+          "seniorityLevel": 1,
+          "supervisorId": 176666
+        }
+      ]
+    }
+  ]
+}

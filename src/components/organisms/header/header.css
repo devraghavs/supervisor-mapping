@@ -1,0 +1,20 @@
+.app-header {
+  margin-bottom: 2rem;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+}
+.ps-logo {
+  width: 43%;
+  display: inline-block;
+}
+body .app-heading {
+  top: 0px;
+  z-index: 10;
+  display: inline-block;
+}
+.app-heading-content {
+  font-weight: bold;
+}
+.img-fluid{
+  height: 300px;
+  width: 100px;
+}

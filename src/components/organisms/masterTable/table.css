@@ -1,0 +1,264 @@
+.main-heading {
+  margin-top: 200px;
+}
+.download-icon {
+  color: white;
+}
+.table-heading button {
+  border: none;
+  background-color: transparent;
+  color: white;
+}
+
+.form-control {
+  /* margin: 20px 0px;
+  float: right;
+  width: 25% !important; */
+  margin-bottom: 1rem;
+}
+
+.form-control ::placeholder {
+  font-weight: bolder;
+}
+
+thead button.ascending::after {
+  content: "⬇";
+  display: inline-block;
+  margin-left: 0.2em;
+}
+
+thead button::after {
+  content: "⮁";
+  display: inline-block;
+  margin-left: 0.2em;
+}
+
+thead button.descending::after {
+  content: "⬆";
+  display: inline-block;
+  margin-left: 0.2em;
+}
+.form-container {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  max-width: 100%;
+}
+
+form.nosubmit {
+  border: none;
+}
+
+body .form-width {
+  width: 88%;
+}
+
+input.nosubmit {
+  border: 1px solid #555;
+  padding: 9px 4px 9px 40px;
+  background: transparent
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' class='bi bi-search' viewBox='0 0 16 16'%3E%3Cpath d='M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z'%3E%3C/path%3E%3C/svg%3E")
+    no-repeat 13px center;
+  font-weight: lighter;
+}
+body .download-btn{
+width: 10%;
+line-height: 35px;
+height: 45px;
+background-color:  #089cfc;
+color: white;
+padding: auto;
+align-items: center;
+}
+body .download-btn:hover{
+  background-color: #089cfc;
+}
+body .main-table {
+  width: 100%;
+}
+
+.heading {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+
+.oid {
+  width: 8%;
+  text-align: left;
+}
+.oid-content {
+  text-align: left;
+}
+.name-width {
+  width: 15%;
+}
+
+.career-width {
+  width: 13%;
+}
+
+.transfer-width {
+  width: 6%;
+}
+
+.receiver-width {
+  width: 10%;
+}
+
+.count-width {
+  width: 12%;
+}
+
+.industry-width {
+  width: 15%;
+}
+.loading {
+  position: fixed;
+  z-index: 999;
+  height: 2em;
+  width: 2em;
+  overflow: visible;
+  margin: auto;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+
+.table-heading {
+  font-weight: normal;
+}
+
+body td {
+  border: none;
+  max-width: 100px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  vertical-align: middle;
+  text-align: start;
+}
+thead {
+  text-align: start;
+}
+
+.background-button {
+  border: none;
+  background: transparent;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.select-checkbox {
+  transform: scale(1.3, 1.3);
+  cursor: pointer;
+}
+
+.select-checkbox:disabled {
+  cursor: not-allowed;
+  /* accent-color: black!important; */
+}
+
+/* .select-checkbox:disabled + label::before{
+  background-color: rgb(207, 85, 85);
+} */
+
+.table-striped > tbody > tr:nth-of-type(odd) > {
+  color: #5c646c;
+  background-color: #3671c2;
+}
+
+.table-heading {
+  color: white;
+}
+.btn-img {
+  border-radius: 5px;
+}
+.background-button {
+  color: #3671c2;
+}
+
+.background-button:disabled {
+  opacity: 50%;
+  cursor: not-allowed;
+}
+
+.main-heading {
+  margin-top: 120px;
+}
+
+.table-striped > tbody > tr:nth-child(odd) > td {
+  background-color: #eafaff;
+}
+
+.table-striped > tbody > tr:nth-child(odd) > td {
+  --bs-table-striped-bg: none;
+}
+
+.scroll-parent {
+  position: relative;
+  top: 0px;
+  max-height: 320px;
+  overflow-y: auto;
+}
+
+.table-height {
+  display: flex;
+  flex-direction: column;
+}
+
+/* .page-link {
+  z-index: 3;
+  color: white;
+<<<<<<< HEAD
+=======
+  background-color:  #089cfc; 
+>>>>>>> bab02c5d0907f547bf996aaa13075c11640d4aa0
+  outline: 0;
+  box-shadow: none !important;
+} */
+
+body .table-alert {
+  position: absolute;
+  left: 35%;
+  top: 0%;
+  width: 30%;
+  animation: drop 0.5s ease forwards;
+}
+@keyframes drop {
+  0% {
+  }
+  /* 70%{transform: translateY(100px);} */
+  100% {
+    transform: translateY(90px);
+  }
+}
+
+@media screen and (min-width: 350px) {
+  body .table-height {
+    min-height: 73vh;
+  }
+}
+
+@media screen and (max-width: 992px) {
+  .table-alert {
+    width: 80%;
+    left: 10%;
+  }
+  .main-table {
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+  }
+  .form-container {
+    display: flex;
+    flex-direction: column;
+  }
+  body .form-width {
+    width: 100%;
+  }
+  body .download-btn {
+    width: 150px;
+  }
+}

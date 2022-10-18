@@ -1,0 +1,11 @@
+/** @description:- Styling for footer */
+.footer {
+  width: 100%;
+  background-color: rgb(238, 234, 234);
+  margin-top: auto;
+  font-size: 18px;
+}
+body .footer-row{
+    margin-left: 0px;
+}
+

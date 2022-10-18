@@ -1,0 +1,47 @@
+/** @description:- Styling for Transfer model*/
+body #parentselection {
+  width: 100%;
+  display: flex;
+  margin-bottom: 10px;
+  flex-direction: row;
+}
+body .selectsupervisee {
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.movesupervisee {
+  border: none;
+  background-color: white;
+  color: #5c646c;
+  padding-left: 40px;
+}
+.movesupervisee:hover {
+  color: #089cfc;
+  cursor: pointer;
+}
+.dropdown-container {
+  width: 100%;
+}
+.selectpicker{
+  cursor: pointer;
+}
+body .form-select {
+  width: 100% ;
+}
+body .text-head {
+  color: white;
+  font-weight: normal;
+}
+.table-index {
+  border: none;
+}
+body path {
+  color: #0494ec;
+}
+body .theme-btn{
+  background-color: #089cfc ;
+}
+body .theme-btn:hover{
+  background-color: #089cfc ;
+}

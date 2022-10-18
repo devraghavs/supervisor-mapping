@@ -1,0 +1,79 @@
+/** @description:- Styling of Confirm model */
+body .table-head {
+  color: white;
+  font-weight: normal;
+}
+.revert-btn{
+  color:#089cfc;
+  border: 1px solid#089cfc;
+  background-color: white;
+  padding: 6px 12px;
+  border-radius: 5px;
+}
+.revert-btn:disabled{
+  cursor: not-allowed;
+  color: #5c646c;
+  border:1px solid#5c646c;
+}
+body .accordion-button:focus {
+  border: none;
+  box-shadow: 0 0 0 0.25px #5c646c;
+}
+.text-remaining {
+  border: none;
+  background-color: white;
+}
+.text-remaining:hover {
+  color: #089cfc;
+}
+.trash-icon{
+  cursor: pointer;
+}
+.count-heading{
+  /* font-weight: bold; */
+  color: #089cfc;
+}
+.edit-change{
+  color: #089cfc;
+  text-decoration: underline;
+  cursor: pointer;
+  border: none;
+  background-color: white;
+}
+.edit-change:disabled{
+  color: #5c646c;
+  cursor: not-allowed;
+
+}
+body .delete-btn{
+  color: #089cfc;
+  background-color: white;
+  border: 1px solid#089cfc;
+}
+body .delete-btn:hover{
+  color: #089cfc;
+  background-color: white;
+  border: 1px solid#089cfc;
+}
+.edit-delete-btn{
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-between;
+}
+
+.count-heading{
+  margin-top: 5px;
+}
+body .head-supervisee{
+  margin-left: 20px;
+}
+body .accordion-item{
+  margin-top: 10px;
+}
+@media screen and (max-width: 450px) {
+  .confirm-table {
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+  }
+}

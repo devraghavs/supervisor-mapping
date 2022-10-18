@@ -1,0 +1,38 @@
+/** @description:- Styling for Success model*/
+.sucessmodal {
+  display: flex;
+  justify-content: center;
+}
+body .theme-btn {
+  background-color: #089cfc;
+  color: white;
+}
+.sucess-image {
+  width: 280px;
+}
+body .sucess-text {
+  margin-top: 20px;
+  color: #00e6c3;
+}
+.done-download{
+  display: flex;
+  flex-direction: column;
+}
+body .download{
+  margin-top: 10px;
+  background-color: #089cfc;
+  color: white;
+  font-weight: normal;
+}
+body .download:hover{
+  background-color: #089cfc;
+}
+.sucess-btn{
+  margin:5px;
+}
+body .sucess-btn{
+  background-color: #089cfc;
+}
+body .sucess-btn:hover{
+  background-color: #089cfc;
+}

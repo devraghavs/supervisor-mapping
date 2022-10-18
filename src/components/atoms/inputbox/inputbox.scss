@@ -1,0 +1,26 @@
+@import "../../../styles/variables";
+.input {
+  border-width: 0;
+
+  color: black;
+
+  border-bottom: 3px solid rgba(#2c3e50, 0.2);
+
+  background-color: transparent;
+
+  position: relative;
+
+  width: 20%;
+
+  @media screen and (max-width: 800px) {
+    width: 80%;
+  }
+
+  &:focus {
+    outline: 0;
+
+    box-shadow: none;
+
+    border-color: #22bbd6;
+  }
+}
